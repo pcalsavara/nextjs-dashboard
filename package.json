@@ -2,8 +2,7 @@
   "private": true,
   "scripts": {
     "build": "next build",
-    "dev": "next dev",
-    "devtp": "next dev --turbopack",
+    "dev": "next dev --turbopack",
     "start": "next start",
     "lint": "eslint ."
   },
